@@ -1,0 +1,52 @@
+body{
+    background-color: lightgray;
+    border: #006a71;
+    border-top: 2px;
+}
+div{
+    background-position: center;
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    border-top: #006a71 solid 5px;
+}
+#active{
+    color: #006a71;
+    text-align: center;
+    font-family:"Titillium Web", sans-serif;
+}
+p{
+    text-align: center;
+    font-family:"Titillium Web", sans-serif;
+}
+.s{
+    border: none;
+    background-color: #dce7eb;
+    text-align: center;
+    width: 65%;
+    height: 40px;
+}
+textarea{
+    border: none;
+    background-color: #dce7eb;
+    text-align: center;
+    width: 65%;
+    height: 80px;
+}
+select{
+    border: none;
+    background-color: #dce7eb;
+    text-align: center;
+    width: 65%;
+    height: 40px;
+    color: #006a71;
+}
+button{
+    border: none;
+    background-color: #006a71;
+    text-align: center;
+    width: 20%;
+    height: 40px; 
+    color: white;
+    font-family: "Titillium Web", sans-serif;
+}
